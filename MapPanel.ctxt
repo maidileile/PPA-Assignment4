@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MapPanel
+comment1.params=
+comment1.target=MapPanel()
+comment2.params=
+comment2.target=void\ createMap()
+comment3.params=e
+comment3.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment4.params=
+comment4.target=javax.swing.JPanel\ getPanel()
+comment5.params=selectListings
+comment5.target=void\ updateHouses(java.util.ArrayList)
+comment6.params=img\ newW\ newH
+comment6.target=java.awt.image.BufferedImage\ resize(java.awt.image.BufferedImage,\ int,\ int)
+numComments=7

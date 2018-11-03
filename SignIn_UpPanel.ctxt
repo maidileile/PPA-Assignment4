@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SignIn_UpPanel
+comment0.text=\r\n\ a\ panel\ which\ could\ let\ user\ to\ sign\ in\ or\ sign\ up\r\n\r\n\ @Xiangyi\ Zeng\r\n\ @March\ 30th,2018\r\n
+comment1.params=
+comment1.target=SignIn_UpPanel()
+comment1.text=\r\n\ Constructor\ of\ sign\ in/up\ panel.\r\n
+comment2.params=
+comment2.target=void\ creatPanel()
+comment2.text=\r\n\ Create\ the\ gui\ panel\ for\ the\ sign\ in/up\ panel.\r\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ createUserDataSet()
+comment5.text=\r\n\ add\ some\ user\ data\ which\ have\ been\ registered.\r\n
+comment6.params=
+comment6.target=javax.swing.JPanel\ getPanel()
+comment6.text=\r\n\ return\ the\ signPanel.\r\n
+numComments=7
